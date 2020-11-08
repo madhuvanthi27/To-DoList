@@ -5,7 +5,7 @@ User can also use it for group projects.
 - Flutter
 - Dart
 - Visual Studio and Android studio
-- Version Control - Gitlab
+- Version Control - Git
 - Google Firebase
 - SQLite
 # ABOUT THE APP DEVELOPED
