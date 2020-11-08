@@ -1,5 +1,5 @@
 # OVERVIEW
-The app aims to help the user plan various tasks
+The app aims to help the user plan various tasks.
 User can also use it for group projects.
 # TECHNOLOGIES USED
 - Flutter
